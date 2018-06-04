@@ -1,6 +1,6 @@
 package com.EmpPayroll.domain;
 
-public class commisionedBasedPartTime extends PartTime implements IPrintable{
+public class CommisionedBasedPartTime extends PartTime implements IPrintable{
 	
 	private int commissionPercent;
 	
